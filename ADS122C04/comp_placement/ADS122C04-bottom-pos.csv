@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Conn_01x06_Pin","PinHeader_1x06_P2.54mm_Vertical",177.901600,-97.028000,180.000000,bottom
+"J2","Conn_01x04_Socket","PinHeader_1x04_P2.54mm_Vertical",212.953600,-98.348800,180.000000,bottom
+"J3","Conn_01x04_Socket","PinHeader_1x04_P2.54mm_Vertical",193.954400,-95.605600,90.000000,bottom

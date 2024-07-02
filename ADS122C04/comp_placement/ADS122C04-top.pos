@@ -1,0 +1,28 @@
+### Footprint positions - created on Fri Sep 29 20:15:09 2023 ###
+### Printed by KiCad version 7.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                                           PosX       PosY       Rot  Side
+C1        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   208.2800  -106.6800  180.0000  top
+C2        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   200.6600  -106.6800    0.0000  top
+C3        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   181.4576  -106.4260   90.0000  top
+C4        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   197.6875  -106.6800    0.0000  top
+C5        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   185.4708  -109.1692  180.0000  top
+C6        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   198.1200  -104.1400  -90.0000  top
+C7        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   185.4200  -104.1400   90.0000  top
+C8        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   192.6075  -106.6800    0.0000  top
+C9        C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   180.8988  -104.0892    0.0000  top
+C10       C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   210.1596  -106.2747  -90.0000  top
+C11       C_Small       C_0201_0603Metric_Pad0.64x0.40mm_HandSolder   203.2000  -101.6000   90.0000  top
+R1        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   182.8800  -104.1400   90.0000  top
+R2        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   204.8275  -104.1400  180.0000  top
+R3        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   192.1275  -109.2200    0.0000  top
+R4        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   203.2000  -106.6800   90.0000  top
+R5        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   187.0475  -106.6800    0.0000  top
+R6        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   181.9675  -109.2200    0.0000  top
+R7        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   203.2000   -96.5200   90.0000  top
+R8        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   205.7400   -99.0600  -90.0000  top
+R9        R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   199.7475  -101.6000   90.0000  top
+R10       R             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   187.0964   -98.9584  180.0000  top
+U1        ADS122C04IPW  SOP65P640X120-16N                             193.3700  -101.2750    0.0000  top
+## End
